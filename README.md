@@ -5,5 +5,5 @@ with an intuitive interface that built on Streamlit, it accurately identifies em
 
 <h2>Features</h2>
 
--**Email Classification** : Enter an email and classify it as spam or ham(Not Spam) <br>
+-**Email Classification** : Enter an email and classify it as Spam or Not Spam. <br>
 -**User Friendly Experience**: The result will be displayed with Colured background to clearly indicate as a Spam **(Red)** and for Not Spam **as (Green)**.
