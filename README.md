@@ -7,9 +7,9 @@ with an intuitive interface that built on Streamlit, it accurately identifies em
 
 -**Dataset** - spam.csv is dataset file that contains all the email content labelled as spam and ham(not spam).<br>
 -**Data preprocessing** - that will done by using NLP techniques involves removing unnecessary characters, tokenizing the text, converting the text to lowercase, removing stop words, and performing stemming or lemmatization to reduce words to their base form.<br>
--**Model Training** - A machine learning algorithm for email classification such as Naive Bayes will be used. Trained the model using the training dataset, where the features are the preprocessed email texts, and the labels are the spam or non-spam categories.<br
--**Model Evaluation** - Evaluated trained model accuracy will be given approximate 97% which is the proportion of correctly classified samples in the test set.<br
--**User Interface** - that will built on streamlit and it accurately identify email as spam or not spam.<br
+-**Model Training** - A machine learning algorithm for email classification such as Naive Bayes will be used. Trained the model using the training dataset, where the features are the preprocessed email texts, and the labels are the spam or non-spam categories.<br>
+-**Model Evaluation** - Evaluated trained model accuracy will be given approximate 97% which is the proportion of correctly classified samples in the test set.<br>
+-**User Interface** - that will built on streamlit and it accurately identify email as spam or not spam.<br>
 
 <h2>Features</h2>
 
