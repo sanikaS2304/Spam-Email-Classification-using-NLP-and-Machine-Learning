@@ -15,3 +15,12 @@ with an intuitive interface that built on Streamlit, it accurately identifies em
 
 -**Email Classification** : Enter an email and classify it as Spam or Not Spam. <br>
 -**User Friendly Experience**: The result will be displayed with Colured background to clearly indicate as a Spam **(Red)** and for Not Spam **as (Green)**.
+
+### Screenshots
+
+<img width="1912" height="918" alt="not spam" src="https://github.com/user-attachments/assets/79d874ab-00b5-4abb-9fe7-38535e8610a8" />
+
+
+<img width="1909" height="916" alt="spam" src="https://github.com/user-attachments/assets/a01dcb7b-d471-421f-91ef-d246320c3270" />
+
+
